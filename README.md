@@ -96,6 +96,10 @@ Calculated similarity between anime vectors.
 Step 4: Recommendation Generation
 Returns top similar anime titles.
 
+#### Streamlit Web Page
+
+https://priya-srivastava-animerecommendation.streamlit.app/
+
 #### Streamlit Interface
 
 Features:
